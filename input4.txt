@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 limit buy 10 100
 limit sell 10 100
 limit sell 20 200
@@ -8,4 +9,16 @@ limit buy 10 100
 change order identificador_2 50 @ 2
 change order identificador_4 50 @ 2
 cancel order identificador_4
+=======
+limit buy 10 100
+limit sell 10 100
+limit sell 20 200
+market buy 150
+market buy 200
+market sell 200
+limit buy 10 100
+change order identificador_2 50 @ 2
+change order identificador_4 50 @ 2
+cancel order identificador_4
+>>>>>>> b72e43e5a3b83eaaf5ee9642621dc64ffe95ec38
 cancel order identificador_6
