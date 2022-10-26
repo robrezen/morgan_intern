@@ -1,0 +1,4 @@
+ limit buy 10 100
+ change order identificador_2 50 @ 2
+ change order identificador_4 50
+ change order identificador_6 @ 10

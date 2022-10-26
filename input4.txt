@@ -1,0 +1,11 @@
+limit buy 10 100
+limit sell 10 100
+limit sell 20 200
+market buy 150
+market buy 200
+market sell 200
+limit buy 10 100
+change order identificador_2 50 @ 2
+change order identificador_4 50 @ 2
+cancel order identificador_4
+cancel order identificador_6
