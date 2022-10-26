@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 limit buy 10 100
 change order identificador_2 50 @ 2
 change order identificador_4 50
-=======
-limit buy 10 100
-change order identificador_2 50 @ 2
-change order identificador_4 50
->>>>>>> b72e43e5a3b83eaaf5ee9642621dc64ffe95ec38
 cancel order identificador_6
